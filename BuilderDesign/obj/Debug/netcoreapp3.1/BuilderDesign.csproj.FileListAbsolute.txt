@@ -1,0 +1,13 @@
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.exe
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.deps.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.runtimeconfig.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.runtimeconfig.dev.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.dll
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.pdb
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.csproj.CoreCompileInputs.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.dll
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.pdb
+C:\K.G\DOCUMENTS\C#\DesignPatterns\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.genruntimeconfig.cache

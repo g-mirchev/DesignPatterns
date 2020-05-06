@@ -4,7 +4,12 @@ using System.Text;
 
 namespace BuilderDesign
 {
-    class Product
+    /*
+     * Class to represent a Product object
+     */
+    public class Product
     {
+        public string Name { get; set; }
+        public double Price { get; set; }
     }
 }
