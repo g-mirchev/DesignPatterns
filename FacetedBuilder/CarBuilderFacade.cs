@@ -24,5 +24,12 @@ namespace FacetedBuilder
          * Return the car object
          */
         public Car Build() => Car;
+
+        /*
+         * Create the info and address sections of the car
+         * passing the current Car as argument
+         */
+        public CarInfoBuilder Info => new CarInfoBuilder(Car);
+        public CarAddressBuilder Built => new CarAddressBuilder(Car);
     }
 }
