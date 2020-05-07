@@ -1,0 +1,13 @@
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.exe
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.deps.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.runtimeconfig.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.runtimeconfig.dev.json
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.dll
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\bin\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.pdb
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.csproj.CoreCompileInputs.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.dll
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.pdb
+C:\K.G\DOCUMENTS\C#\DesignPatterns\FluentBuilderRecursiveGenerics\obj\Debug\netcoreapp3.1\FluentBuilderRecursiveGenerics.genruntimeconfig.cache
