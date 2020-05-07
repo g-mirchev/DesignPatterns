@@ -18,7 +18,7 @@ namespace FacetedBuilder
 
         public override string ToString()
         {
-            return $"CarType: {Type}, Color: {Color}, Number of doors: {NumberOfDoors}, Manufactured in {City}, at adress: {Address}";
+            return $"CarType: {Type}, Color: {Color}, Number of doors: {NumberOfDoors}, Manufactured in {City}, at address: {Address}";
         }
     }
 }
