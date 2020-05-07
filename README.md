@@ -1,2 +1,2 @@
 # DesignPatterns
- Project to lear design patterns in C#
+ Project to learn design patterns in C#
