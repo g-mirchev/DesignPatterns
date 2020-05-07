@@ -7,3 +7,8 @@ BuilderDesign/.vs/BuilderDesign/v16/.suo
 BuilderDesign/.vs/BuilderDesign/v16/.suo
 *.cache
 BuilderDesign/.vs/BuilderDesign/v16/.suo
+*.dll
+*.json
+*.pdb
+*.exe
+*.txt
