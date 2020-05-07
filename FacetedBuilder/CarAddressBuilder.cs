@@ -7,7 +7,7 @@ namespace FacetedBuilder
     /*
      * Logic for building car manufacturer info
      */
-    class CarAddressBuilder : CarBuilderFacade
+    public class CarAddressBuilder : CarBuilderFacade
     {
         /*
          * Creates the manufacturing section of the car taking a car as parameter
