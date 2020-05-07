@@ -5,16 +5,15 @@ using System.Text;
 namespace FluentBuilderRecursiveGenerics
 {
     /*
-     * Class to build Name part of Employee
+     * Class to build Name part of Employee inherits employee ebject from Employee Builder
+     * And returns a generic type with restriction of that type being EmployeeInfoBuilder type
      */
-    public class EmployeeInfoBuilder
+    public class EmployeeInfoBuilder<T> : EmployeeBuilder where T : EmployeeInfoBuilder<T>
     {
-        protected Employee employee = new Employee();
-
-        public EmployeeInfoBuilder SetName(string name)
+        public T SetName(string name)
         {
             employee.Name = name;
-            return this;
+            return (T)this;
         }
     }
 }
