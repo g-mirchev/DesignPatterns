@@ -15,7 +15,7 @@ namespace FactoryMethod
          * instantiate dictionary an dynamically populate mapping each Action from the enumerables
          * to a newly created instance of the corresponding factory type
          */
-        public AirConditioner()
+        private AirConditioner()
         {
             _factories = new Dictionary<Actions, AirConditionerFactory>();
 
@@ -25,6 +25,11 @@ namespace FactoryMethod
                 _factories.Add(action, factory);
             }
         }
+
+        /*
+         * Initialize class with factory method to allow chaining syntax
+         */
+        public static AirConditioner InitializeFactories = new AirConditioner();
 
         /*
          * Execute creation of appropriate manager using factory mapped to the action passed as param
