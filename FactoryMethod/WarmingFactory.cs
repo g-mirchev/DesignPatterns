@@ -9,6 +9,9 @@ namespace FactoryMethod
      */
     public class WarmingFactory : AirConditionerFactory
     {
+        /*
+         * Create warming manager with temperature from param as arg
+         */
         public override IAirConditioner Create(double temperature) => new WarmingManager(temperature);
     }
 }
