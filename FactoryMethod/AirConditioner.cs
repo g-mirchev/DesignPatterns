@@ -27,7 +27,8 @@ namespace FactoryMethod
         }
 
         /*
-         * Execute appropriate factory creation
+         * Execute creation of appropriate manager using factory mapped to the action passed as param
+         * with the temperature passed as param 
          */
         public IAirConditioner ExecuteCreation(Actions action, double temperature) => _factories[action].Create(temperature);
     }
