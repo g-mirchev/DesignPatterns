@@ -29,7 +29,7 @@ namespace FactoryMethod
         /*
          * Initialize class with factory method to allow chaining syntax
          */
-        public static AirConditioner InitializeFactories = new AirConditioner();
+        public static AirConditioner InitializeFactories() => new AirConditioner();
 
         /*
          * Execute creation of appropriate manager using factory mapped to the action passed as param
