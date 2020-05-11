@@ -27,9 +27,11 @@ namespace Singleton
             }
         }
 
-        private static SingletonDataContainer instance = new SingletonDataContainer();
-
-        public static SingletonDataContainer Instance => instance;
+        /*
+         * Load single instance of this static class the lazy way (whenever it is needed) making it thread safe
+         */
+        private static Lazy<SingletonDataContainer> instance = new Lazy<SingletonDataContainer>(() => new SingletonDataContainer());
+        public static SingletonDataContainer Instance => instance.Value;
 
         /*
          * Implementing the interface, return the population mapped to the parsed capital
