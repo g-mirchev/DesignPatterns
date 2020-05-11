@@ -16,7 +16,7 @@ namespace Singleton
          * Read all the lines from the txt and populate the Dictionary iterating trough two lines at a time
          * the first line of each line pair being the capital, the second its population
          */
-        public SingletonDataContainer()
+        private SingletonDataContainer()
         {
             Console.WriteLine("Initializing singleton object");
 
@@ -26,6 +26,10 @@ namespace Singleton
                 _capitals.Add(elements[i], int.Parse(elements[i + 1]));
             }
         }
+
+        private static SingletonDataContainer instance = new SingletonDataContainer();
+
+        public static SingletonDataContainer Instance => instance;
 
         /*
          * Implementing the interface, return the population mapped to the parsed capital
