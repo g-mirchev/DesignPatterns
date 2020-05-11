@@ -8,7 +8,7 @@ namespace FluentBuilderRecursiveGenerics
      * Represents API to build Employee object inherits from EmployeeSalaryBuilder and sets the
      * type for the recursive generic approach enabling fluent interface inheritance
      */
-    class EmployeeBuilderDirector : EmployeeSalaryBuilder<EmployeeBuilderDirector>
+    public class EmployeeBuilderDirector : EmployeeSalaryBuilder<EmployeeBuilderDirector>
     {
         public static EmployeeBuilderDirector NewEmployee => new EmployeeBuilderDirector();
     }

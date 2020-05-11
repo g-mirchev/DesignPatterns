@@ -8,7 +8,7 @@ namespace FluentBuilderRecursiveGenerics
      * Creating salary builder for employee object inherited from position builder implementing
      * generic recursive inheritence
      */
-    class EmployeeSalaryBuilder<T> : EmployeePositionBuilder<EmployeeSalaryBuilder<T>> where T : EmployeeSalaryBuilder<T>
+    public class EmployeeSalaryBuilder<T> : EmployeePositionBuilder<EmployeeSalaryBuilder<T>> where T : EmployeeSalaryBuilder<T>
     {
         public T WithSalary(double salary)
         {
